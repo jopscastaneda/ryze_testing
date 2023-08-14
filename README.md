@@ -1,5 +1,5 @@
 # ryze_testing
-Technical Test for Ryze QA Application
+Technical Test for Formedix QA Role Application
 
 # Framework and Tool Descriptionn
 
