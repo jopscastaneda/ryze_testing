@@ -11,13 +11,17 @@ Page Object Model is also applied.
 Cypress Automation Tool - https://www.cypress.io/
 
 In the project repository:
+
 See feature files under - cypress\integration
+
 See step definition files - cypress\support\step_definitions
+
 See page obeject file - cypress\page-objects
 
 # Pre requites
 
 Download and Install NODE JS - https://nodejs.org/en
+
 Download and install Visual Studio Code - https://code.visualstudio.com/
 
 # setup after cloning this repo
