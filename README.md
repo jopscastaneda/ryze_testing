@@ -1,7 +1,7 @@
 # ryze_testing
 Technical Test for Formedix QA Role Application
 
-# Framework and Tool Descriptionn
+# Automation Tool and Framework Description
 
 Automation framework tool used is Cypress. With Cypress, you can easily create tests for your modern web applications, 
 debug them visually, and automatically run them in your continuous integration builds.
