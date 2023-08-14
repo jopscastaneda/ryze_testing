@@ -52,4 +52,4 @@ npx cypress run --spec "cypress\integration\login.feature\navigate-page.feature.
 # run all the feature files
 ```
 npx cypress run --spec "cypress/integration/**/*.feature"
-```1
+```
